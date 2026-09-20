@@ -1,41 +1,60 @@
-# Week 1 Lab — Student Profile Card
+# Python Coding Assignments
 
-Ask for a student's details, compute their result, and print a clean
-profile card. Everything you need is from this week's classes: `input()`,
-type casting, operators, and f-strings.
+A structured collection of Python labs and programming exercises completed while building strong foundations for **AI Engineering and Software Development**.
 
-**Time: about an hour.** Work in `student_profile.py` — the three TODOs
-are the whole lab.
+The repository is organized week by week to track my progression from Python fundamentals toward more advanced programming concepts.
 
-## Tasks
+## 📚 Learning Progress
 
-1. **Collect details** (`collect_student`) — name, age, and marks in
-   three subjects (out of 100 each). Remember: `input()` always gives you
-   a string — cast age and marks to numbers.
-2. **Compute the result** (`compute_results`) — total, percentage, and a
-   grade: A for 90%+, B for 75%+, C for 50%+, otherwise "Needs work".
-3. **Print the card** (`format_profile`) — use f-strings. Percentage must
-   show exactly 2 decimal places.
+| Week    | Lab                    | Key Concepts                                                   |
+| ------- | ---------------------- | -------------------------------------------------------------- |
+| Week 01 | Student Profile Card   | Input, type casting, operators, f-strings, functions           |
+| Week 02 | Student Record Manager | Dictionaries, CRUD operations, functions, loops, return values |
+| Week 03 | Coming soon            | —                                                              |
 
-## Expected output (roughly)
+## 📂 Repository Structure
 
-```
-==============================
- STUDENT PROFILE
-==============================
- Name       : Asha Verma
- Age        : 19
- Total      : 254 / 300
- Percentage : 84.67%
- Grade      : B
-==============================
-```
-
-## Run it
-
-```sh
-python3 student_profile.py
+```text
+Python-coding-assignments/
+│
+├── .layrs/
+│
+├── week-01/
+│   ├── README.md
+│   └── student_profile.py
+│
+├── week-02/
+│   ├── README.md
+│   └── records.py
+│
+└── README.md
 ```
 
-Stuck? Ask the Layrs coach in the sidebar — then hit **Submit for
-review** when your card prints correctly.
+## 🎯 Purpose
+
+The goal of this repository is to:
+
+* Build strong Python programming fundamentals
+* Practice writing clean and readable code
+* Strengthen problem-solving skills through hands-on exercises
+* Understand programming concepts by implementing them
+* Maintain a structured record of my learning progress
+* Build a strong foundation for AI/ML and software engineering projects
+
+## 🛠️ Technologies
+
+* Python 3
+* Git
+* GitHub
+
+## 📈 Progress
+
+* [x] Week 01 — Student Profile Card
+* [x] Week 02 — Student Record Manager
+* [ ] Week 03
+* [ ] Week 04
+* [ ] More labs coming as learning progresses
+
+---
+
+This repository is continuously updated as I progress through Python programming and AI/software engineering concepts.
