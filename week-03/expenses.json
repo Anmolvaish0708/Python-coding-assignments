@@ -1,0 +1,30 @@
+[
+    {
+        "desc": "chai",
+        "amount": 1500.0
+    },
+    {
+        "desc": "coffee",
+        "amount": 1000.0
+    },
+    {
+        "desc": "biscuit",
+        "amount": 200.0
+    },
+    {
+        "desc": "chai",
+        "amount": 1500.0
+    },
+    {
+        "desc": "coffee",
+        "amount": 2000.0
+    },
+    {
+        "desc": "curd",
+        "amount": 10.0
+    },
+    {
+        "desc": "pen",
+        "amount": 20.0
+    }
+]
