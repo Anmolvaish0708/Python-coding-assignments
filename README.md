@@ -6,11 +6,12 @@ The repository is organized week by week to track my progression from Python fun
 
 ## 📚 Learning Progress
 
-| Week    | Lab                    | Key Concepts                                                   |
-| ------- | ---------------------- | -------------------------------------------------------------- |
-| Week 01 | Student Profile Card   | Input, type casting, operators, f-strings, functions           |
+| Week | Lab | Key Concepts |
+|------|-----|--------------|
+| Week 01 | Student Profile Card | Input, type casting, operators, f-strings, functions |
 | Week 02 | Student Record Manager | Dictionaries, CRUD operations, functions, loops, return values |
-| Week 03 | Coming soon            | —                                                              |
+| Week 03 | File-Based Expense Tracker | File I/O, JSON, exception handling, data persistence |
+| Week 04 | Coming soon | — |
 
 ## 📂 Repository Structure
 
@@ -27,6 +28,12 @@ Python-coding-assignments/
 │   ├── README.md
 │   └── records.py
 │
+├── week-03/
+│   ├── README.md
+│   ├── expenses.json
+│   ├── storage.py
+│   └── tracker.py
+│
 └── README.md
 ```
 
@@ -34,26 +41,28 @@ Python-coding-assignments/
 
 The goal of this repository is to:
 
-* Build strong Python programming fundamentals
-* Practice writing clean and readable code
-* Strengthen problem-solving skills through hands-on exercises
-* Understand programming concepts by implementing them
-* Maintain a structured record of my learning progress
-* Build a strong foundation for AI/ML and software engineering projects
+- Build strong Python programming fundamentals
+- Practice writing clean and readable code
+- Strengthen problem-solving skills through hands-on exercises
+- Understand programming concepts by implementing them
+- Learn practical concepts through progressively challenging projects
+- Maintain a structured record of my learning progress
+- Build a strong foundation for AI/ML and software engineering projects
 
 ## 🛠️ Technologies
 
-* Python 3
-* Git
-* GitHub
+- Python 3
+- JSON
+- Git
+- GitHub
 
 ## 📈 Progress
 
-* [x] Week 01 — Student Profile Card
-* [x] Week 02 — Student Record Manager
-* [ ] Week 03
-* [ ] Week 04
-* [ ] More labs coming as learning progresses
+- [x] Week 01 — Student Profile Card
+- [x] Week 02 — Student Record Manager
+- [x] Week 03 — File-Based Expense Tracker
+- [ ] Week 04
+- [ ] More labs coming as learning progresses
 
 ---
 
